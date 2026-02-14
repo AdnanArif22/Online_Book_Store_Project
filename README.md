@@ -20,13 +20,19 @@ Academic database projects and assignments
 
 Online_Book_Store_Project/
 │
-├── book_orders_sql.sql                # SQL script to create database and tables
-├── Books.csv                         # Sample books data
-├── Customers.csv                    # Sample customers data
-├── Orders.csv                       # Sample orders data
-├── Online_Bookstore_SQL_Project.pdf # Project documentation
-├── SQL-Project_Question_file.pdf    # SQL questions and requirements
-└── README.md                        # Project description
+├── book_orders_sql.sql                  # SQL script to create database and tables
+
+├── Books.csv                            # Sample books data
+
+├── Customers.csv                        # Sample customers data
+
+├── Orders.csv                            # Sample orders data
+
+├── Online_Bookstore_SQL_Project.pdf     # Project documentation
+
+├── SQL-Project_Question_file.pdf         # SQL questions and requirements
+
+└── README.md                              # Project description
 
 **🧱 Database Schema**
 
