@@ -17,6 +17,7 @@ Understanding relationships between tables
 Academic database projects and assignments
 
 **🗂️ Project Structure**
+
 Online_Book_Store_Project/
 │
 ├── book_orders_sql.sql                # SQL script to create database and tables
@@ -35,7 +36,7 @@ The project includes the following main tables:
 
 Stores information about books available in the store.
 
-Attributes:
+_Attributes:_
 
 * Book_ID (Primary Key)
 
@@ -53,7 +54,7 @@ Attributes:
 
 Stores customer information.
 
-Attributes:
+_Attributes:_
 
 * Customer_ID (Primary Key)
 
@@ -71,7 +72,7 @@ Attributes:
 
 Stores order details made by customers.
 
-**Attributes:**
+_Attributes:_
 
 * Order_ID (Primary Key)
 
